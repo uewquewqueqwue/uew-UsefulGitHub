@@ -1,4 +1,4 @@
-# uew-Useful
+# uew-UsefulGitHub
 [MaterialDesign](https://github.com/Templarian/MaterialDesign): 
 A repository containing all the planning of current material design icons
 
