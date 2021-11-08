@@ -15,4 +15,8 @@ Platforms, Programming Languages, Front-End and Back-end Development, Big data, 
 [Renoise](https://github.com/xiph/rnnoise) is a noise reduction library based on a recurrent neural network that allows you to remove unnecessary noise from the audio track.
 
 All additional information is available in [this article](https://jmvalin.ca/demo/rnnoise/).
-It describes how this neuron works and highlights some aspects of the topic
+It describes how this neuron works and highlights some aspects of the topic<br />
+[Alda](https://github.com/alda-lang/alda) is a text-based programming language for creating musical compositions. Alda allows you to compose and play music using only a text editor and a command line.
+
+Why compose music in this way, and not in a graphics program? Link to [the blog](https://blog.djy.io/alda-a-manifesto-and-gentle-introduction/).<br />
+[Flashlight](https://github.com/flashlight/flashlight ) is a fast, flexible machine learning library written entirely in `C++ from the Facebook AI Research Speech` team and the creators of `Torch` and `Deep Speech`.<br />
