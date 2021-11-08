@@ -17,9 +17,5 @@ It describes how this neuron works and highlights some aspects of the topic<br /
 Why compose music in this way, and not in a graphics program? Link to [the blog](https://blog.djy.io/alda-a-manifesto-and-gentle-introduction/).<br />
 - [Flashlight](https://github.com/flashlight/flashlight) is a fast, flexible machine learning library written entirely in `C++ from the Facebook AI Research Speech` team and the creators of `Torch` and `Deep Speech`.<br />
 - [The most effective VST plugins](https://t.me/vsc_help)
-Without excess water, with a convenient description and links. 
-Subscribe and deal with the editor, increase your productivity.<br />
-![image](https://user-images.githubusercontent.com/91084267/140828831-88e98490-6d83-4717-b811-89171b141522.png)<br />
-- [Process hacker](https://github.com/processhacker/processhacker) is a free, powerful, multi-purpose tool that helps monitor system resources, debug software, and detect malware.
-![image](https://user-images.githubusercontent.com/91084267/140828831-88e98490-6d83-4717-b811-89171b141522.png)<br />
- [Process hacker](https://github.com/processhacker/processhacker) is a free, powerful, multi-purpose tool that helps monitor system resources, debug software, and detect malware.
+Without excess water, with a convenient description and links. Subscribe and deal with the editor, increase your productivity.<br />
+- [Process hacker](https://github.com/processhacker/processhacker) is a free, powerful, multi-purpose tool that helps monitor system resources, debug software, and detect malware. <br />
