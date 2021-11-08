@@ -1,14 +1,15 @@
 # uew-UsefulGitHub
-- [MaterialDesign](https://github.com/Templarian/MaterialDesign): 
-A repository containing all the planning of current material design icons
+- [MaterialDesign](https://github.com/Templarian/MaterialDesign):
+A repository containing all the planning of current material design icons<br />
 `More than 6200+` Icons from the community! This repository also contains converted icons from the official Google icon pack.
 - [Degoogle](https://github.com/tycrek/degoogle):
-`Removing Google from your life`. This is a huge list of alternatives to Google products from browser extensions to various books and articles.
+`Removing Google from your life`. <br />
+This is a huge list of alternatives to Google products from browser extensions to various books and articles.
 - [Awesome](https://github.com/sindresorhus/awesome):
-The most interesting lists with useful information on all kinds of different topics.
+The most interesting lists with useful information on all kinds of different topics.<br />
 Brief content:
 `Platforms, Programming Languages, Front-End and Back-end Development, Big data, Data science, Various Theory, Books, Editors, Games, VR/AR, Entertainment, Databases, Media, Security, Content Management Systems, Software, Business, Work, Decentralized Systems, Higher Education, Testing, Other`...<br />
-- [Renoise](https://github.com/xiph/rnnoise) is a noise reduction library based on a recurrent neural network that allows you to remove unnecessary noise from the audio track.
+- [Renoise](https://github.com/xiph/rnnoise) is a noise reduction library based on a recurrent neural network that allows you to remove unnecessary noise from the audio track.<br />
 All additional information is available in [this article](https://jmvalin.ca/demo/rnnoise/).
 It describes how this neuron works and highlights some aspects of the topic<br />
 - [Alda](https://github.com/alda-lang/alda) is a text-based programming language for creating musical compositions. Alda allows you to compose and play music using only a text editor and a command line.
