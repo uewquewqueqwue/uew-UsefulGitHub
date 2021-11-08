@@ -19,3 +19,4 @@ Why compose music in this way, and not in a graphics program? Link to [the blog]
 - [The most effective VST plugins](https://t.me/vsc_help)
 Without excess water, with a convenient description and links. 
 Subscribe and deal with the editor, increase your productivity.<br />
+- [Process hacker](https://github.com/processhacker/processhacker) is a free, powerful, multi-purpose tool that helps monitor system resources, debug software, and detect malware.
