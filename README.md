@@ -11,7 +11,7 @@ This is a huge list of alternatives to Google products from browser extensions t
 The most interesting lists with useful information on all kinds of different topics.
 
 Brief content:
-Platforms, Programming Languages, Front-End and Back-end Development, Big data, Data science, Various Theory, Books, Editors, Games, VR/AR, Entertainment, Databases, Media, Security, Content Management Systems, Software, Business, Work, Decentralized Systems, Higher Education, Testing, Other...<br />
+`Platforms, Programming Languages, Front-End and Back-end Development, Big data, Data science, Various Theory, Books, Editors, Games, VR/AR, Entertainment, Databases, Media, Security, Content Management Systems, Software, Business, Work, Decentralized Systems, Higher Education, Testing, Other`...<br />
 [Renoise](https://github.com/xiph/rnnoise) is a noise reduction library based on a recurrent neural network that allows you to remove unnecessary noise from the audio track.
 
 All additional information is available in [this article](https://jmvalin.ca/demo/rnnoise/).
