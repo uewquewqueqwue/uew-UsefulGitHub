@@ -15,5 +15,9 @@ Since this will probably lead to a repository history osprey, it is highly recom
 - [Code face](https://github.com/chrissimpkins/codeface) - Fonts to decorate the source code. This is a gallery and repository of monospaced fonts for developers. To download a font, just click on the link to its name, which in turn will open the corresponding directory with fonts.
 - [ANTLR](https://github.com/antlr/antlr4) (Another Tool for Language Recognition) is a powerful parser generator for reading, processing, executing or translating structured text or binary files. It is used for exceptionally powerful and flexible parsing of formal languages. "We use it to parse Twitter search queries. The generated code turns out to be efficient and stable" (Generated code is efficient and stable)
 - [OS of Serenity](https://github.com/SerenityOS/serenity) is a love letter to user interfaces of the 90s with a custom Unix-like kernel. 
-"It flatters sincerity by stealing great ideas from various other systems" Roughly speaking, the goal is to combine the software aesthetics of the late 1990s and the "accessibility/capabilities" that users had in the late 2000s. 
-"This is a system created by us, for us, based on what we like"
+"It flatters sincerity by stealing great ideas from various other systems" Roughly speaking, the goal is to combine the software aesthetics of the late 1990s and the "accessibility/capabilities" that users had in the late 2000s. "This is a system created by us, for us, based on what we like"
+[A-Frame](https://github.com/aframevr/aframe) - A web framework for creating virtual reality. 
+  - Processes 3D and Web templates required to work on different platforms, including mobile, desktop, Vive and Rift
+  - Since A-Frame can be used from HTML, it is available to everyone: web developers, VR enthusiasts, teachers, and even artists!
+  - While A-Frame can be used from HTML, developers have unlimited access to JavaScript, DOM API, three.js, WebVR and WebGL.
+* Works on Vive, Rift, Daydream, GearVR and Cardboard.
