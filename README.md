@@ -25,3 +25,5 @@ Since this will probably lead to a repository history osprey, it is highly recom
 - [PIFuHD](https://github.com/facebookresearch/pifuhd) - Digitization of a person in 3D with high resolution from a single image. (CVPR 2020)
 - [Trends.Earth](https://github.com/ConservationInternational/trends.earth) (formerly Land Degradation Monitoring Toolbox) is a platform for monitoring changes on the map using Earth observations in an innovative desktop and cloud system.
 - [Free-programming-books](https://github.com/EbookFoundation/free-programming-books ) - A list of free educational resources in many languages
+- [Windows Calculator](https://github.com/microsoft/calculator) is a simple but at the same time powerful calculator that comes with Windows.
+- [Terminus](https://github.com/Eugeny/tabby) (Tabby) is a cross-platform terminal with the possibility of fine configuration.
