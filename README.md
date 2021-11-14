@@ -27,3 +27,4 @@ Since this will probably lead to a repository history osprey, it is highly recom
 - [Free-programming-books](https://github.com/EbookFoundation/free-programming-books ) - A list of free educational resources in many languages
 - [Windows Calculator](https://github.com/microsoft/calculator) is a simple but at the same time powerful calculator that comes with Windows.
 - [Terminus](https://github.com/Eugeny/tabby) (Tabby) is a cross-platform terminal with the possibility of fine configuration.
+- [Puppeteer](https://github.com/puppeteer/puppeteer) is a Node library that provides a high-level API for managing Chrome or Chromium over the DevTools protocol
