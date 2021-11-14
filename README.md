@@ -16,8 +16,12 @@ Since this will probably lead to a repository history osprey, it is highly recom
 - [ANTLR](https://github.com/antlr/antlr4) (Another Tool for Language Recognition) is a powerful parser generator for reading, processing, executing or translating structured text or binary files. It is used for exceptionally powerful and flexible parsing of formal languages. "We use it to parse Twitter search queries. The generated code turns out to be efficient and stable" (Generated code is efficient and stable)
 - [OS of Serenity](https://github.com/SerenityOS/serenity) is a love letter to user interfaces of the 90s with a custom Unix-like kernel. 
 "It flatters sincerity by stealing great ideas from various other systems" Roughly speaking, the goal is to combine the software aesthetics of the late 1990s and the "accessibility/capabilities" that users had in the late 2000s. "This is a system created by us, for us, based on what we like"
-[A-Frame](https://github.com/aframevr/aframe) - A web framework for creating virtual reality. 
+- [A-Frame](https://github.com/aframevr/aframe) - A web framework for creating virtual reality. 
   - Processes 3D and Web templates required to work on different platforms, including mobile, desktop, Vive and Rift
   - Since A-Frame can be used from HTML, it is available to everyone: web developers, VR enthusiasts, teachers, and even artists!
   - While A-Frame can be used from HTML, developers have unlimited access to JavaScript, DOM API, three.js, WebVR and WebGL.
-* Works on Vive, Rift, Daydream, GearVR and Cardboard.
+  - Works on Vive, Rift, Daydream, GearVR and Cardboard.
+- [The Fuck](https://github.com/nvbn/thefuck) is a great application that fixes errors in previous console commands.
+- [PIFuHD](https://github.com/facebookresearch/pifuhd) - Digitization of a person in 3D with high resolution from a single image. (CVPR 2020)
+- [Trends.Earth](https://github.com/ConservationInternational/trends.earth) (formerly Land Degradation Monitoring Toolbox) is a platform for monitoring changes on the map using Earth observations in an innovative desktop and cloud system.
+- [Free-programming-books](https://github.com/EbookFoundation/free-programming-books ) - A list of free educational resources in many languages
