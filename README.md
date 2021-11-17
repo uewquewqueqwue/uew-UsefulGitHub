@@ -32,3 +32,6 @@ Since this will probably lead to a repository history osprey, it is highly recom
 - [Animate.css](https://github.com/animate-css/animate.css) is a library of ready-to-use cross-browser animations for use in your web projects.
 - [Open Avatarify](https://github.com/alievk/avatarify-python) - Photorealistic avatars for many video conferencing applications.
 - [Micro](https://github.com/microg/GmsCore) is a free, open-source implementation of Google's proprietary libraries that replaces Google Play services in the Android operating system.
+- [mosaic](https://github.com/codebox/mosaic) - Utility for creating photomosaic images based on the original image using a set of tiles/tiling¹
+- [Sherlock](https://github.com/sherlock-project/sherlock) is a simple algorithm that checks the presence of an account in social networks by a given user nickname.
+- [glitch-this](https://github.com/TotallyNotChase/glitch-this) is a command-line tool + python library for creating a glitch effect on an image and the ability to create gifs of this effect.
