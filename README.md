@@ -39,3 +39,9 @@ Since this will probably lead to a repository history osprey, it is highly recom
 - [mosaic](https://github.com/codebox/mosaic) - Utility for creating photomosaic images based on the original image using a set of tiles/tiling¹
 - [Sherlock](https://github.com/sherlock-project/sherlock) is a simple algorithm that checks the presence of an account in social networks by a given user nickname.
 - [glitch-this](https://github.com/TotallyNotChase/glitch-this) is a command-line tool + python library for creating a glitch effect on an image and the ability to create gifs of this effect.
+- [Termux](https://github.com/termux) is an Android terminal emulator and Linux environment application written in Java. It works directly without rooting or configuring. The minimum base system is installed automatically - additional packages are available using the APT package manager.
+  - [Termux-app](https://github.com/termux/termux-app) - User interface and terminal emulation
+  - [Termux-api](https://github.com/termux/termux-api) - Android API for using the command line and scripts or programs
+  - [Termux-stylingъ]https://github.com/termux/termux-styling ) (Kotlin) - An additional application for customizing fonts, terminal and color scheme
+  - [Termux-tasker](https://github.com/termux/termux-tasker) - An additional application for integration with Tasker
+  - [Termux-packages](https://github.com/termux/termux-packages) (Shell) - System assembly and primary package set for Thermex
