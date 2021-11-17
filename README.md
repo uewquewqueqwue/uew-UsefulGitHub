@@ -30,3 +30,4 @@ Since this will probably lead to a repository history osprey, it is highly recom
 - [Puppeteer](https://github.com/puppeteer/puppeteer) is a Node library that provides a high-level API for managing Chrome or Chromium over the DevTools protocol
 - [Board game.io](https://github.com/boardgameio/boardgame.io) is an engine for creating turn-based games using JavaScript.
 - [Animate.css](https://github.com/animate-css/animate.css) is a library of ready-to-use cross-browser animations for use in your web projects.
+- [Open Avatarify](https://github.com/alievk/avatarify-python) - Photorealistic avatars for many video conferencing applications
