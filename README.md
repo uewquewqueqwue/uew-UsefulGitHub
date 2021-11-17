@@ -46,3 +46,4 @@ Since this will probably lead to a repository history osprey, it is highly recom
   - [Termux-tasker](https://github.com/termux/termux-tasker) - An additional application for integration with Tasker
   - [Termux-packages](https://github.com/termux/termux-packages) (Shell) - System assembly and primary package set for Termux
 - [SysMonTask](https://github.com/KrispyCamel4u/SysMonTask) is a system monitor for GNU/Linux, which looks exactly like the Windows Task Manager and has the same functionality.
+- [Ventoy](https://github.com/ventoy/Ventoy) it is an open source tool for creating a bootable USB drive for files ISO / WIM / IMG / VHD (x) / EFI.
