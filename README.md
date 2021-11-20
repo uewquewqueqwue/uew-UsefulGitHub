@@ -47,3 +47,14 @@ Since this will probably lead to a repository history osprey, it is highly recom
   - [Termux-packages](https://github.com/termux/termux-packages) (Shell) - System assembly and primary package set for Termux
 - [SysMonTask](https://github.com/KrispyCamel4u/SysMonTask) is a system monitor for GNU/Linux, which looks exactly like the Windows Task Manager and has the same functionality.
 - [Ventoy](https://github.com/ventoy/Ventoy) it is an open source tool for creating a bootable USB drive for files ISO / WIM / IMG / VHD (x) / EFI.
+- [paranoid-ninja](https://github.com/szorfein/paranoid-ninja) – A script to protect your privacy.
+- [Privacy Indicators for Android](https://github.com/NitishGadangi/Privacy-Indicator-App) – Camera and/or microphone usage indicators for Android implemented on Kotlin.
+- [Awesome Python Books](https://github.com/Junnplus/awesome-python-books) - Various Python books collected in one repository.
+- [Tesseract.js](https://github.com/naptha/tesseract.js) – A library for extracting/recognizing text on images, supports almost any language.
+- [kbd-audio](https://github.com/ggerganov/kbd-audio) – It is a collection of command-line and GUI tools for collecting and analyzing audio data.
+- [Return YouTube Dislike](https://github.com/Anarios/return-youtube-dislike) - this is an open source extension that returns a YouTube dislike counter.
+- [Rich](https://github.com/willmcgugan/rich) is a Python library for rich text and beautiful formatting in the terminal.
+- [Cloc](https://github.com/AlDanial/cloc) – a utility that counts empty lines, comment lines, and physical lines of source code in many programming languages.
+- [Flagsmith](https://github.com/Flagsmith/flagsmith) – A service that allows you to easily create and manage feature flags in web, mobile and server-side applications.
+- [50 Lines](https://github.com/Loskir/50-lines) is a script that converts any image or video from the camera into a set of 50 curved lines.
+- [Rufus](https://github.com/pbatard/rufus) - It is a utility that helps to format and create bootable USB flash memory devices.
