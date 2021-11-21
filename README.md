@@ -60,3 +60,4 @@ Since this will probably lead to a repository history osprey, it is highly recom
 - [Rufus](https://github.com/pbatard/rufus) - It is a utility that helps to format and create bootable USB flash memory devices.
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity/productivity. Microsoft PowerToys is a set of utilities for advanced users that allows you to configure and optimize your work with Windows to improve performance
 - [Jekyll](https://github.com/jekyll/jekyll) - This is a static Ruby site generator, it's a simple, blog-aware static site generator, ideal for personal projects or small organizational sites. Think of it as a simplified file CMS.
+- [Wox](https://github.com/Wox-launcher/Wox) – Quick launch of programs and other things for Windows, alternative Alfred and Launchy.
