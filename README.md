@@ -58,6 +58,13 @@ Since this will probably lead to a repository history osprey, it is highly recom
 - [Flagsmith](https://github.com/Flagsmith/flagsmith) – A service that allows you to easily create and manage feature flags in web, mobile and server-side applications.
 - [50 Lines](https://github.com/Loskir/50-lines) is a script that converts any image or video from the camera into a set of 50 curved lines.
 - [Rufus](https://github.com/pbatard/rufus) - It is a utility that helps to format and create bootable USB flash memory devices.
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity/productivity. Microsoft PowerToys is a set of utilities for advanced users that allows you to configure and optimize your work with Windows to improve performance
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity/productivity. Microsoft PowerToys is a set of utilities for advanced users that allows you to configure and optimize your work with Windows to improve performance.
 - [Jekyll](https://github.com/jekyll/jekyll) - This is a static Ruby site generator, it's a simple, blog-aware static site generator, ideal for personal projects or small organizational sites. Think of it as a simplified file CMS.
 - [Wox](https://github.com/Wox-launcher/Wox) – Quick launch of programs and other things for Windows, alternative Alfred and Launchy.
+- [Motrix](https://github.com/agalwood/Motrix) - Multifunctional download manager that supports HTTP, FTP, BitTorrent, Magnet, etc. downloads.
+- [github-spray](https://github.com/Annihil/github-spray) – Draw on the commit graph GitHub.
+- [Taskbar groups](https://github.com/tjackenpacken/taskbar-groups)– A small, lightweight utility that allows the user to group several applications and pin them in a taskbar or on the desktop.
+- [Ansible](https://github.com/ansible/ansible) - simple automation system. It deals with configuration management, application deployment, resource allocation to the cloud, performing special tasks, network automation and multi-node orchestration.
+- [DevUtils.app](https://github.com/DevUtilsApp/DevUtils-app) – An offline set of tools for developers on MacOS.
+- [LearnGitBranching](https://github.com/pcottle/learnGitBranching)– a project that will help you refresh or even consolidate your knowledge of git.
+- [Secret](https://telegra.ph/file/3dbc2451eee2cec2b7dcd.jpg) – A simple PHP application for sharing confidential information.
