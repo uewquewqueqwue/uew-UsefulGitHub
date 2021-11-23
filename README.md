@@ -42,7 +42,7 @@ Since this will probably lead to a repository history osprey, it is highly recom
 - [Termux](https://github.com/termux) is an Android terminal emulator and Linux environment application written in Java. It works directly without rooting or configuring. The minimum base system is installed automatically - additional packages are available using the APT package manager.
   - [Termux-app](https://github.com/termux/termux-app) - User interface and terminal emulation
   - [Termux-api](https://github.com/termux/termux-api) - Android API for using the command line and scripts or programs
-  - [Termux-stylingъ]https://github.com/termux/termux-styling ) (Kotlin) - An additional application for customizing fonts, terminal and color scheme
+  - [Termux-styling](https://github.com/termux/termux-styling) (Kotlin) - An additional application for customizing fonts, terminal and color scheme
   - [Termux-tasker](https://github.com/termux/termux-tasker) - An additional application for integration with Tasker
   - [Termux-packages](https://github.com/termux/termux-packages) (Shell) - System assembly and primary package set for Termux
 - [SysMonTask](https://github.com/KrispyCamel4u/SysMonTask) is a system monitor for GNU/Linux, which looks exactly like the Windows Task Manager and has the same functionality.
