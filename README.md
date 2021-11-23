@@ -64,7 +64,7 @@ Since this will probably lead to a repository history osprey, it is highly recom
 - [Motrix](https://github.com/agalwood/Motrix) - Multifunctional download manager that supports HTTP, FTP, BitTorrent, Magnet, etc. downloads.
 - [github-spray](https://github.com/Annihil/github-spray) – Draw on the commit graph GitHub.
 - [Taskbar groups](https://github.com/tjackenpacken/taskbar-groups)– A small, lightweight utility that allows the user to group several applications and pin them in a taskbar or on the desktop.
-- [Ansible](https://github.com/ansible/ansible) - simple automation system. It deals with configuration management, application deployment, resource allocation to the cloud, performing special tasks, network automation and multi-node orchestration.
+- [Ansible](https://github.com/ansible/ansible) - Simple automation system. It deals with configuration management, application deployment, resource allocation to the cloud, performing special tasks, network automation and multi-node orchestration.
 - [DevUtils.app](https://github.com/DevUtilsApp/DevUtils-app) – An offline set of tools for developers on MacOS.
-- [LearnGitBranching](https://github.com/pcottle/learnGitBranching)– a project that will help you refresh or even consolidate your knowledge of git.
+- [LearnGitBranching](https://github.com/pcottle/learnGitBranching)– A project that will help you refresh or even consolidate your knowledge of git.
 - [Secret](https://telegra.ph/file/3dbc2451eee2cec2b7dcd.jpg) – A simple PHP application for sharing confidential information.
