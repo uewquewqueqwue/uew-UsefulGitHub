@@ -68,3 +68,6 @@ Since this will probably lead to a repository history osprey, it is highly recom
 - [DevUtils.app](https://github.com/DevUtilsApp/DevUtils-app) – An offline set of tools for developers on MacOS.
 - [LearnGitBranching](https://github.com/pcottle/learnGitBranching)– A project that will help you refresh or even consolidate your knowledge of git.
 - [Secret](https://telegra.ph/file/3dbc2451eee2cec2b7dcd.jpg) – A simple PHP application for sharing confidential information.
+- [Min](https://github.com/minbrowser/min) – a fast, minimalistic browser that protects your privacy.
+- [Open-source MacOS apps](https://github.com/serhii-londar/open-source-mac-os-apps) – A list of awesome open source apps for macOS.
+- [Easywall](https://github.com/jpylypiw/easywall) – Web interface for simplifying the use of the IPTables firewall on Linux systems, written in Python.
