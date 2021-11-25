@@ -71,3 +71,5 @@ Since this will probably lead to a repository history osprey, it is highly recom
 - [Min](https://github.com/minbrowser/min) – a fast, minimalistic browser that protects your privacy.
 - [Open-source MacOS apps](https://github.com/serhii-londar/open-source-mac-os-apps) – A list of awesome open source apps for macOS.
 - [Easywall](https://github.com/jpylypiw/easywall) – Web interface for simplifying the use of the IPTables firewall on Linux systems, written in Python.
+- [Supabase](https://supabase.com/) – it is an open source alternative to Firebase.
+- [Notable](https://github.com/notable/notable) – A Markdown-based note-taking App That Doesn't Suck.
