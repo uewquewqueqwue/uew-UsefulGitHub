@@ -73,7 +73,7 @@ Since this will probably lead to a repository history osprey, it is highly recom
 - [Easywall](https://github.com/jpylypiw/easywall) – Web interface for simplifying the use of the IPTables firewall on Linux systems, written in Python.
 - [Supabase](https://supabase.com/) – It is an open source alternative to Firebase.
 - [Notable](https://github.com/notable/notable) – A Markdown-based note-taking App That Doesn't Suck.
-- Helpy](https://github.com/helpyio/helpy) – A modern support service platform. The goal of Helpy is to support your email and support services by seamlessly integrating with your application and launching a customer support center.
+- [Helpy](https://github.com/helpyio/helpy) – A modern support service platform. The goal of Helpy is to support your email and support services by seamlessly integrating with your application and launching a customer support center.
 - [Whoogle](https://github.com/benbusby/whoogle-search) – Metasearch search engine, without ads, javascript, AMP links, cookies and IP address tracking.
 - [eDEX-UI](https://github.com/GitSquared/edex-ui) - This is a full-screen cross-platform emulator of a sci-fi terminal with advanced monitoring, which looks and feels like a sci-fi computer interface.
 - [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) – Free and open source sprite editor!
