@@ -68,8 +68,20 @@ Since this will probably lead to a repository history osprey, it is highly recom
 - [DevUtils.app](https://github.com/DevUtilsApp/DevUtils-app) – An offline set of tools for developers on MacOS.
 - [LearnGitBranching](https://github.com/pcottle/learnGitBranching)– A project that will help you refresh or even consolidate your knowledge of git.
 - [Secret](https://telegra.ph/file/3dbc2451eee2cec2b7dcd.jpg) – A simple PHP application for sharing confidential information.
-- [Min](https://github.com/minbrowser/min) – a fast, minimalistic browser that protects your privacy.
+- [Min](https://github.com/minbrowser/min) – A fast, minimalistic browser that protects your privacy.
 - [Open-source MacOS apps](https://github.com/serhii-londar/open-source-mac-os-apps) – A list of awesome open source apps for macOS.
 - [Easywall](https://github.com/jpylypiw/easywall) – Web interface for simplifying the use of the IPTables firewall on Linux systems, written in Python.
-- [Supabase](https://supabase.com/) – it is an open source alternative to Firebase.
+- [Supabase](https://supabase.com/) – It is an open source alternative to Firebase.
 - [Notable](https://github.com/notable/notable) – A Markdown-based note-taking App That Doesn't Suck.
+- Helpy](https://github.com/helpyio/helpy) – A modern support service platform. The goal of Helpy is to support your email and support services by seamlessly integrating with your application and launching a customer support center.
+- [Whoogle](https://github.com/benbusby/whoogle-search) – Metasearch search engine, without ads, javascript, AMP links, cookies and IP address tracking.
+- [eDEX-UI](https://github.com/GitSquared/edex-ui) - This is a full-screen cross-platform emulator of a sci-fi terminal with advanced monitoring, which looks and feels like a sci-fi computer interface.
+- [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) – Free and open source sprite editor!
+- [DBeaver](https://github.com/dbeaver/dbeaver) – A free, multi-platform database tool for developers, SQL programmers, database administrators and analysts.
+- [Faker](https://github.com/faker-ruby/faker) – Library for generating fake data such as names, addresses and phone number.
+- [Clone-wars](https://github.com/GorvGoyl/Clone-Wars)– Repository with more than 100 clones of popular open source sites.
+- [Files](https://github.com/files-community/Files) – A modern file manager that expands the boundaries of the platform.
+- [Huginn](https://github.com/huginn/huginn) – A builder of "agents" who will automatically act on your behalf. Your agents are standing by!
+- [Regexlearn](https://github.com/aykutkardas/regexlearn.com) – A project that will help you understand and learn how to write regular expressions.
+- [AFWall](https://github.com/ukanth/afwall) – Firewall for Android. In fact, this is an advanced iptables editor (GUI) for Android. It provides precise control over which Android apps are allowed to access the network.
+- [Metaflow](https://github.com/Netflix/metaflow) – Easily create and manage real software projects data science!
