@@ -89,3 +89,14 @@ Since this will probably lead to a repository history osprey, it is highly recom
 - [Dash](https://github.com/plotly/dash) – analytical web applications for Python, R, Julia and Jupyter.
 - [Fastlane](https://github.com/fastlane/fastlane) – the simplest way to automate the process of creating and releasing applications for iOS and Android.
 - [DivestOS Mobile](https://github.com/divested-mobile) — an unofficial fork of LineageOS, focused on privacy. [Official page](https://divestos.org/).
+- [Hyper](https://github.com/vercel/hyper) – is Electron-based web terminal, "built" on HTML/CSS/JS.
+- [Adblock Fast](https://github.com/rocketshipapps/adblockfast)- new, faster ad blocker for Android, iOS, Chrome and Opera.
+- [Zspotify](https://github.com/Footsiefat/zspotify) – a Spotify downloader that only needs a python interpreter and ffmpeg.
+- [Archcraft](https://github.com/archcraft-os/archcraft) - just another Linux distribution built on top of Arch Linux.
+- [Ferdi](https://github.com/getferdi/ferdi) – helps you organize the use of your favorite apps by combining them into one app.
+- [PhotoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) – is Photoshop CC v19 Installer for Gnu/Linux!
+- [Spicetify-cli](https://github.com/khanhas/spicetify-cli) – a command-line tool for customizing the Spotify client. Support for Windows, macOS and Linux.
+- [Nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) – a Google Chrome/Firefox extension that blocks NSFW images from web pages you visit.
+- [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) – a simple utility that makes the Windows taskbar translucent/transparent.
+- [Open Video Downloader](https://github.com/jely2002/youtube-dl-gui) – a cross-platform graphical interface to simplify downloading videos from various media holdings, created on Electron and node.js.
+<!-- line - 7  -->
