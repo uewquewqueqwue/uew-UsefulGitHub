@@ -102,11 +102,11 @@ Since this will probably lead to a repository history osprey, it is highly recom
 - [Send to VLC](https://github.com/belaviyo/send-to-vlc) – a browser extension that tracks all kinds of streaming media sources on browser tabs and offers to send them to an external music player.
 - [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software) – list (from the category of awesome) applications, software, tools and other materials for various Linux distributions.
 - [translatepy](https://github.com/Animenosekai/translate) - a universal library and CLI written in Python for translation, transliteration, spell checking, text-to-speech and word search in dictionaries, using the following APIs:
- - Google Translate;
- - Yandex Translate;
- - Bing Translate;
- - DeepL Translate;
- - Reverso;
- - MyMemory;
- - LibreTranslate.
+   - Google Translate;
+   - Yandex Translate;
+   - Bing Translate;
+   - DeepL Translate;
+   - Reverso;
+   - MyMemory;
+   - LibreTranslate.
 <!-- line - 7  -->
