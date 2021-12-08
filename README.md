@@ -109,4 +109,8 @@ Since this will probably lead to a repository history osprey, it is highly recom
    - Reverso;
    - MyMemory;
    - LibreTranslate.
+- [Nano Staged](https://github.com/usmanyunusov/nano-staged) – a small (40 KB) NodeJS tool for running commands only for files that will fall into the current commit.
+- [Ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) – an amazing community-driven platform (with over 1,900 members) to manage your ZSH configuration.
+- [Deepdrive](https://github.com/deepdrive/deepdrive) – this is a simulator that allows anyone with a PC to try to emulate the process of driving a car with autopilot.
+- [Mirotalk](https://github.com/miroslavpejic85/mirotalk) – real-time video calls, live chat and screen streaming, fully implemented in the browser. Works on WebRTC.
 <!-- line - 7  -->
