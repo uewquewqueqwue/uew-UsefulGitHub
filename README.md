@@ -113,4 +113,8 @@ Since this will probably lead to a repository history osprey, it is highly recom
 - [Ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) – an amazing community-driven platform (with over 1,900 members) to manage your ZSH configuration.
 - [Deepdrive](https://github.com/deepdrive/deepdrive) – this is a simulator that allows anyone with a PC to try to emulate the process of driving a car with autopilot.
 - [Mirotalk](https://github.com/miroslavpejic85/mirotalk) – real-time video calls, live chat and screen streaming, fully implemented in the browser. Works on WebRTC.
-<!-- line - 7  -->
+- [OpenEmu](https://github.com/OpenEmu/OpenEmu) – a retro video game emulator for macOS, implemented on Objective-C.
+- [notion-enchancer](https://github.com/notion-enhancer/desktop) – improve your Windows experience with notion.so .
+- [Playwright](https://github.com/microsoft/playwright) – a framework for web testing and automation. With it, you can test Chromium, Firefox and WebKit using a single API.
+- [nudoku](https://github.com/jubalh/nudoku) – implementation of Sudoku for playing in the terminal.
+<!-- line - 11  -->
