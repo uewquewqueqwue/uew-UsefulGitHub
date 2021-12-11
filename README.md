@@ -117,4 +117,10 @@ Since this will probably lead to a repository history osprey, it is highly recom
 - [notion-enchancer](https://github.com/notion-enhancer/desktop) – improve your Windows experience with notion.so .
 - [Playwright](https://github.com/microsoft/playwright) – a framework for web testing and automation. With it, you can test Chromium, Firefox and WebKit using a single API.
 - [nudoku](https://github.com/jubalh/nudoku) – implementation of Sudoku for playing in the terminal.
+- [ML.NET](https://github.com/dotnet/machinelearning) - it is an open source and cross-platform machine learning platform for. NET.
+- [GoAccess](https://github.com/allinurl/goaccess) - a real-time web log analyzer that runs in a terminal on *nix systems or through your browser.
+- [CryptoList](https://github.com/coinpride/CryptoList) – a collection of blockchain and various cryptocurrency resources.
+- [MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) – a collection of malware source code for various platforms written in many different programming languages.
+- [Games](https://github.com/leereilly/games) – a list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub.  Any genre.  Any platform.  Any game engine.
+- [Amethyst](https://github.com/amethyst/amethyst) – data-oriented and data-driven game engine written in Rust.
 <!-- line - 11  -->
