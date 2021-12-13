@@ -123,4 +123,15 @@ Since this will probably lead to a repository history osprey, it is highly recom
 - [MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) – a collection of malware source code for various platforms written in many different programming languages.
 - [Games](https://github.com/leereilly/games) – a list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub.  Any genre.  Any platform.  Any game engine.
 - [Amethyst](https://github.com/amethyst/amethyst) – data-oriented and data-driven game engine written in Rust.
+- [Postal](https://github.com/postalserver/postal) – a fully functional mail server that can be used on websites and servers.
+- [Font-awesome](https://github.com/FortAwesome/Font-Awesome) – an iconic set of SVG, font and CSS tools.
+- [You-don’t-need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) – a CSS is powerful enough to do a lot without JS.
+- [Prettier](https://github.com/prettier/prettier) - an excellent code formatter.
+- [OpenVpn-install](https://github.com/Nyr/openvpn-install) – a OpenVPN installer for Ubuntu, Debian, Alt Linux, Rocky Linux, CentOS and Fedora.
+- [Face_recognition](https://github.com/ageitgey/face_recognition) – the world's simplest Python facial recognition API.
+- [DecompilerMC](https://github.com/hube12/DecompilerMC) – this tool allows you to decompile any version of minecraft that was published after 19w36a, without any third-party comparisons.
+- [Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) – the best and completely free UI layouts/examples on Flutter Dart.
+- [Dragonfire](https://github.com/DragonComputer/Dragonfire) – an open source virtual assistant for Ubuntu-based Linux distributions.
+- [Community-edition](https://github.com/ramboxapp/community-edition) – a free, open source messaging and mail application that combines common web applications into one.
+- [Saleor](https://github.com/saleor/saleor) – a modular, high-performance, headless ecommerce platform built on Python, GraphQL, Django and React.
 <!-- line - 11  -->
