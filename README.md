@@ -134,4 +134,10 @@ Since this will probably lead to a repository history osprey, it is highly recom
 - [Dragonfire](https://github.com/DragonComputer/Dragonfire) – an open source virtual assistant for Ubuntu-based Linux distributions.
 - [Community-edition](https://github.com/ramboxapp/community-edition) – a free, open source messaging and mail application that combines common web applications into one.
 - [Saleor](https://github.com/saleor/saleor) – a modular, high-performance, headless ecommerce platform built on Python, GraphQL, Django and React.
+- [Vsinder](https://github.com/benawad/vsinder) – dating app for VSCode.
+- [FastAPI-Template](https://github.com/s3rius/FastAPI-template) - a powerful generator of WEB applications on FastAPI.
+- [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) – we teach Swift in 30 days with the help of examples.
+- [Geo-heatmap](https://github.com/luka1199/geo-heatmap) – generator of interactive geothermal maps from Google location data.
+- [Croc](https://github.com/schollz/croc) – a tool that allows any two computers to transfer files and folders easily and securely.
+- [Strapi](https://github.com/strapi/strapi) – a Node.js Headless CMS is open source for easy creation of customizable APIs.
 <!-- line - 11  -->
