@@ -143,7 +143,7 @@ Since this will probably lead to a repository history osprey, it is highly recom
 - [Blender](https://github.com/blender/blender) – the official mirror of the Blender project on github!
 - [CompressorBot](https://github.com/1Danish-00/CompressorBot) — a Telegram bot sources for video compression with a slight change in quality.
 - [AppFlowy](https://github.com/AppFlowy-IO/appflowy) - it is an open source alternative to Notion, written with Flutter and Rust.
-- [nnn](https://github.com/jarun/nnn)(n³) – a full-featured console file manager, with an emphasis on performance.
+- [nnn(n³)](https://github.com/jarun/nnn) – a full-featured console file manager, with an emphasis on performance.
 - [tensorspace](https://github.com/tensorspace-team/tensorspace) – a framework for 3D visualization of neural networks, creating an interactive and intuitive model in browsers.
 - [System Monitoring Center](https://github.com/hakandundar34coding/system-monitoring-center) – a tool for monitoring the performance and usage of a GTK and Python-based system.
 - [3d-force-graph](https://github.com/vasturiano/3d-force-graph) – 3D force-directed graph component implemented on ThreeJS/WebGL.
