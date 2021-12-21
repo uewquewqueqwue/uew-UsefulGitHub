@@ -139,5 +139,21 @@ Since this will probably lead to a repository history osprey, it is highly recom
 - [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) – we teach Swift in 30 days with the help of examples.
 - [Geo-heatmap](https://github.com/luka1199/geo-heatmap) – generator of interactive geothermal maps from Google location data.
 - [Croc](https://github.com/schollz/croc) – a tool that allows any two computers to transfer files and folders easily and securely.
-- [Strapi](https://github.com/strapi/strapi) – a Node.js Headless CMS is open source for easy creation of customizable APIs.
+- [Strapi](https://github.com/strapi/strapi) – a Node.js Headless CMS is open source for easy creation of customizable APIs.,
+- [Blender](https://github.com/blender/blender) – the official mirror of the Blender project on github!
+- [CompressorBot](https://github.com/1Danish-00/CompressorBot) — a Telegram bot sources for video compression with a slight change in quality.
+- [AppFlowy](https://github.com/AppFlowy-IO/appflowy) - it is an open source alternative to Notion, written with Flutter and Rust.
+- [nnn](https://github.com/jarun/nnn)(n³) – a full-featured console file manager, with an emphasis on performance.
+- [tensorspace](https://github.com/tensorspace-team/tensorspace) – a framework for 3D visualization of neural networks, creating an interactive and intuitive model in browsers.
+- [System Monitoring Center](https://github.com/hakandundar34coding/system-monitoring-center) – a tool for monitoring the performance and usage of a GTK and Python-based system.
+- [3d-force-graph](https://github.com/vasturiano/3d-force-graph) – 3D force-directed graph component implemented on ThreeJS/WebGL.
+- [Shotcut](https://github.com/mltframework/shotcut) – it is a free, an open source cross-platform video editor for FreeBSD, GNU/Linux, macOS and Windows.
+- [Nixpkgs](https://github.com/NixOS/nixpkgs) – collection of Nix packages.
+- [Isometric-contributions](https://github.com/jasonlong/isometric-contributions) – a browser extension for rendering an isometric, pixel-based version of your GitHub commit graph.
+- [Googler](https://github.com/jarun/googler) – "Google" directly from the terminal!
+- [Blockchain](https://github.com/dvf/blockchain) – the simplest blockchain in Python.
+- [GateOne](https://github.com/liftoff/GateOne) - it is a terminal emulator and at the same time an SSH client based on HTML5.
+- [React-query](https://github.com/tannerlinsley/react-query) – hooks for receiving, caching, and updating asynchronous data in React.
+- [Whoogle](https://github.com/benbusby/whoogle-search) – a search engine without ads, javascript, AMP links, cookies and IP address tracking.
+- [Monaco-editor](https://github.com/microsoft/monaco-editor) – browser-based code editor!
 <!-- line - 11  -->
