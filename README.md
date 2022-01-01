@@ -156,4 +156,35 @@ Since this will probably lead to a repository history osprey, it is highly recom
 - [React-query](https://github.com/tannerlinsley/react-query) – hooks for receiving, caching, and updating asynchronous data in React.
 - [Whoogle](https://github.com/benbusby/whoogle-search) – a search engine without ads, javascript, AMP links, cookies and IP address tracking.
 - [Monaco-editor](https://github.com/microsoft/monaco-editor) – browser-based code editor!
+- [ChatterBot](https://github.com/gunthercox/ChatterBot) - this is a Python-based dialog engine based on machine learning.
+- [BootBoi](https://github.com/BootBoi/android-app) – android application for remote on/off/restart of your PC!
+- [YOLO](https://github.com/ultralytics/yolov5) - it is an object detection algorithm that divides images into a grid.
+- [Pixelfed](https://github.com/pixelfed/pixelfed)|(https://telegra.ph/file/2eedbc2586279fcda3d4c.jpg)– a free and ethical photo sharing platform supported by the Activity Pubb Federation.
+- [Uptime kuma](https://github.com/louislam/uptime-kuma) – an unusual independent monitoring tool.
+- [Xplorer](https://github.com/kimlimjustin/xplorer) - this is a beautiful file manager created from scratch for full customization.
+- [ViewTube](https://github.com/ViewTube/viewtube-vue) - alternative Youtube. It has almost all the functionality of YouTube, but, unlike the second one, it does not have any trackers and ads.
+- [Digital-Privacy](https://github.com/ffffffff0x/Digital-Privacy) – a great manual from Chinese colleagues on protecting your digital privacy.
+- [muffon](https://github.com/staniel359/muffon) - it is a music browser/streaming service for desktop PC.
+- [Monitorix](https://github.com/mikaku/Monitorix) – it is a free, lightweight and at the same time powerful tool for monitoring an open source system.
+- [wtftw](https://github.com/Kintaro/wtftw) – a tile window manager written in Rust, with priority for maximum lightness and speed of operation.
+- [Gitpod](https://github.com/gitpod-io/gitpod) – automation of the allocation of ready-to-work development environments.
+- [Libreddit](https://github.com/spikecodes/libreddit) – an alternative interface to Reddit.
+- [Cocos2d-x](https://github.com/cocos2d/cocos2d-x) - a set of cross-platform open source game development tools used by millions of developers around the world.
+- [Insomnia](https://github.com/Kong/insomnia) – open source cross-platform API client for GraphQL, REST and gRPC.
+- [Deployer](https://github.com/deployphp/deployer) – a deployment tool written in PHP with support for popular frameworks right out of the box.
+- [Ryujinx](https://github.com/Ryujinx/Ryujinx) – this is an experimental Nintendo Switch emulator written in C#.
+- [Home-assistant](https://github.com/home-assistant/core) – open source home electronics automation that puts your privacy first.
+- [Chakra-ui](https://github.com/chakra-ui/chakra-ui) – simple, modular and accessible UI components for your React applications.
+- [Rofi-wifi-menu](https://github.com/ericmurphyxyz/rofi-wifi-menu) – beautiful wi-fi menu written with Bash.
+- [Qrcp](https://github.com/claudiodangelis/qrcp) – transfer files via Wi-Fi from your computer to your mobile device by simply scanning the QR code without leaving the terminal.
+- [GraphQL-engine](https://github.com/hasura/graphql-engine) – lightning fast, instant real-time GraphQL APIs for your database with granular access control.
+- [DeepFaceDrawing](https://github.com/IGLICT/DeepFaceDrawing-Jittor) — a neural network that allows you to create realistic images of faces from sketches by hand.
+- [Openpilot](https://github.com/commaai/openpilot) - an open source driver assistance system.
+- [FaceSwap](https://github.com/deepfakes/faceswap) - it is a tool that uses deep learning to recognize and replace faces in photos and videos. Deepfake).
+- [Awesome math](https://github.com/rossant/awesome-math) – curated list of great resources in mathematics.
+- [MemoryLeakDetector](https://github.com/bytedance/memory-leak-detector) – built-in memory leak monitoring tool.
+- [A/B-Street](https://github.com/a-b-street/abstreet) – a simulator of urban traffic, which allows you to see how the traffic will change with the slightest adjustments to the infrastructure.
+- [Pyxel](https://github.com/kitao/pyxel) - a game engine for retro games in Python.
+- [Pauperial](https://github.com/LWJerri/Pauperial) - a simple tool for shortening links and simplifying QR codes.
+- [drawio](https://github.com/jgraph/drawio) – the source code of the chart visualization service draw.io , now app.diagrams.net .
 <!-- line - 11  -->
