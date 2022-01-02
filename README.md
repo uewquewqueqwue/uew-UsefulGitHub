@@ -159,7 +159,7 @@ Since this will probably lead to a repository history osprey, it is highly recom
 - [ChatterBot](https://github.com/gunthercox/ChatterBot) - this is a Python-based dialog engine based on machine learning.
 - [BootBoi](https://github.com/BootBoi/android-app) – android application for remote on/off/restart of your PC!
 - [YOLO](https://github.com/ultralytics/yolov5) - it is an object detection algorithm that divides images into a grid.
-- [Pixelfed](https://github.com/pixelfed/pixelfed)|(https://telegra.ph/file/2eedbc2586279fcda3d4c.jpg)– a free and ethical photo sharing platform supported by the Activity Pubb Federation.
+- [Pixelfed](https://github.com/pixelfed/pixelfed) – a free and ethical photo sharing platform supported by the Activity Pubb Federation.
 - [Uptime kuma](https://github.com/louislam/uptime-kuma) – an unusual independent monitoring tool.
 - [Xplorer](https://github.com/kimlimjustin/xplorer) - this is a beautiful file manager created from scratch for full customization.
 - [ViewTube](https://github.com/ViewTube/viewtube-vue) - alternative Youtube. It has almost all the functionality of YouTube, but, unlike the second one, it does not have any trackers and ads.
