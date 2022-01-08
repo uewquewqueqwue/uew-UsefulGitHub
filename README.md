@@ -186,5 +186,21 @@ Since this will probably lead to a repository history osprey, it is highly recom
 - [A/B-Street](https://github.com/a-b-street/abstreet) – a simulator of urban traffic, which allows you to see how the traffic will change with the slightest adjustments to the infrastructure.
 - [Pyxel](https://github.com/kitao/pyxel) - a game engine for retro games in Python.
 - [Pauperial](https://github.com/LWJerri/Pauperial) - a simple tool for shortening links and simplifying QR codes.
-- [drawio](https://github.com/jgraph/drawio) – the source code of the chart visualization service draw.io , now app.diagrams.net .
+- [drawio](https://github.com/jgraph/drawio) – the source code of the chart visualization service draw.io , now app.diagrams.net.
+- [ReduxUI](https://github.com/gre4ixin/ReduxUI) — a framework for implementing the Redux/Flux architecture of the application. Using the Combine framework.
+- [Syncthing](https://github.com/syncthing/syncthing) – a program for synchronizing files between two or more computers.
+- [Eurorack-cpu](https://github.com/katef/eurorack-cpu) – the processor implemented in a modular synthesizer is serious!
+- [Asynq](https://github.com/hibiken/asynq) – a simple, reliable and efficient task queue in Go.
+- [Misbrands](https://github.com/mkrl/misbrands) – pack of stickers that make fun of various IT giants and YAP.
+- [Daggy](https://github.com/synacker/daggy) – utility and C/C++ developer library for viewing and aggregating data streams. This is a cross-platform (Linux, Windows, macOS), serverless solution.
+- [Immudb](https://github.com/codenotary/immudb) – the world's fastest immutable database built on a zero-trust model.
+- [Larynx](https://github.com/rhasspy/larynx) – autonomous end-to-end text-to-speech system using GRUUT and ONNX (architecture). There are 50 voices available in 9 languages.
+- [CryptoList](https://github.com/coinpride/CryptoList) – a collection of blockchain and various cryptocurrency resources.
+- [PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) - a tool for detecting objects based on PaddlePaddle.
+- [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) – step-by-step guide to learning the JavaScript programming language in 30 days.
+- [Process hacker](https://github.com/processhacker/processhacker) – a free, powerful, multi-purpose tool that helps you monitor system resources, debug software, and detect malware.
+- [Perspec](https://github.com/feramhq/Perspec) – an application for correcting the perspective of an image.
+- [Angular](https://github.com/angular/angular) – a platform for developing mobile and desktop web applications using Typescript/JavaScript and other languages.
+- [px3d](https://github.com/infinitelives/px3d) – an experimental (engine) tool for building pixel 3D graphics.
+- [Starship](https://github.com/starship/starship) – minimalistic, fast and infinitely customizable command line for any shell.
 <!-- line - 11  -->
