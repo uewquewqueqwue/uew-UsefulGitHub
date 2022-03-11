@@ -203,4 +203,5 @@ Since this will probably lead to a repository history osprey, it is highly recom
 - [Angular](https://github.com/angular/angular) – a platform for developing mobile and desktop web applications using Typescript/JavaScript and other languages.
 - [px3d](https://github.com/infinitelives/px3d) – an experimental (engine) tool for building pixel 3D graphics.
 - [Starship](https://github.com/starship/starship) – minimalistic, fast and infinitely customizable command line for any shell.
+- [RNNoise](https://github.com/xiph/rnnoise ) - is a noise reduction library based on a recurrent neural network that allows you to remove unnecessary noise from the audio track.
 <!-- line - 11  -->
