@@ -203,5 +203,26 @@ Since this will probably lead to a repository history osprey, it is highly recom
 - [Angular](https://github.com/angular/angular) – a platform for developing mobile and desktop web applications using Typescript/JavaScript and other languages.
 - [px3d](https://github.com/infinitelives/px3d) – an experimental (engine) tool for building pixel 3D graphics.
 - [Starship](https://github.com/starship/starship) – minimalistic, fast and infinitely customizable command line for any shell.
-- [RNNoise](https://github.com/xiph/rnnoise ) - is a noise reduction library based on a recurrent neural network that allows you to remove unnecessary noise from the audio track.
+- [RNNoise](https://github.com/xiph/rnnoise) - is a noise reduction library based on a recurrent neural network that allows you to remove unnecessary noise from the audio track.
+- [AsyncLocationKit](https://github.com/AsyncSwift/AsyncLocationKit) - a framework implementing Modern Swift parallelism for CoreLocation.
+- [HoverZoom](https://github.com/extesy/hoverzoom) - is a browser extension that allows you to scale images/videos on all your favorite websites.
+- [Ambitious PNG Packer](https://github.com/DavidBuchanan314/ambiguous-png-packer) - a script that encrypts two PNG images into one, which will be displayed on different devices in different ways.
+- [Svelte](https://github.com/sveltejs/svelte) - is a new way to create web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that "surgically" updates the DOM.
+- [Fakebrowser](https://github.com/kkoooqq/fakebrowser) - a browser that can fake finger taps to bypass anti-bot systems.
+- [Secret](https://github.com/alancwoo/secret) – a simple PHP application for sharing confidential information.
+- [twitch-cli](https://github.com/twitchdev/twitch-cli) - is a cross-platform CLI interface for working with the Twitch streaming platform API.
+- [Depix](https://github.com/beurtschipper/Depix) - a tool for depixelizing/recovering passwords from "pixelated" screenshots/images.
+- [Ansible](https://github.com/ansible/ansible) - simple automation system.
+- [Learn-python](https://github.com/trekhleb/learn-python) – a playground and at the same time a cheat sheet for learning Python. In other words, it is a collection of Python scripts, divided by topic and containing code examples with explanations.
+- [Wtfjs](https://github.com/denysdovhan/wtfjs) - a list of funny and tricky examples of using JavaScript.
+- [Virtual-environments](https://github.com/actions/virtual-environments) - virtual Environments GitHub Actions.
+- [The-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - the Art of the command line.
+- [Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) – more than 100 interesting Python programming exercises.
+- [Sample-programs](https://github.com/TheRenegadeCoder/sample-programs) - examples of programs in each programming language.
+- [RedisDesktopManager](https://github.com/uglide/RedisDesktopManager) - open source cross-platform GUI for Redis.
+- [Papers-we-love](https://github.com/papers-we-love/papers-we-love) - various articles from the world of computer technology and science, worthy of reading.
+- [Ots](https://github.com/sniptt-official/ots) - share end-to-end encrypted messages with others via a one-time URL.
+- [EvoBot](https://github.com/eritislami/evobot) - this is a Discord music bot template created using discord.js.
+- [Ai-expert-roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - a guide to the study of AI in 2021(2).
+- [Public-apis](https://github.com/public-apis/public-apis) - collected list of free APIs for software and web development.
 <!-- line - 11  -->
